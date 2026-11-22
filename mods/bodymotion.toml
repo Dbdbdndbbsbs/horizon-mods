@@ -3,13 +3,11 @@ kind = "native-mod"
 name = "Body Motion"
 summary = """Smoother and more expressive third-person animations: eating, drinking, climbing, riding, maps, lanterns, petting and more, with a custom settings screen."""
 description = """
-A standalone mod for Horizon that brings your character to life in third person. It adds expressive animations for everyday actions — eating and drinking, climbing ladders, riding boats and horses, crawling, falling, burning, freezing, sleeping, elytra gliding, sprinting and item swapping. Maps and lanterns render as real 3D models in your hands instead of flat icons, including filled maps in both hands. Crouching next to a wolf or cat makes your hand reach out and follow the animal as it moves. Custom bow and crossbow poses with a configurable bow mode and body rotation lock are included.
+Body Motion brings your character to life in third person with smooth, expressive animations for everyday actions.
 
-The mod has its own settings screen (Options → Mods → Body Motion) with tabs for Animations, Hold Up Items and Lanterns: toggles, sliders, choices and item search, saved to the mod's own config.
+What it does: • Eating, drinking, climbing, riding boats and horses, crawling, falling, burning, freezing, sleeping and elytra gliding all get natural poses. • Maps and lanterns render as real 3D models in your hands instead of flat icons, including filled maps in both hands. • Crouch next to a wolf or cat and your hand reaches out and follows the animal as it moves. • Custom bow and crossbow poses with configurable bow mode and body rotation lock. • Sprinting, swimming and item swapping get their own animation set.
 
-Vanilla-friendly: a spear in use keeps its vanilla pose, and the eating/drinking pose triggers only for real food and drink.
-
-Pinned to Horizon 2b77287 (nightly-2026-11-22-2b77287, game 26.3) and horizon-mixins e59da90.
+What's new: • Custom settings screen with tabs for Animations, Hold Up Items and Lanterns, with toggles, sliders, choices and item search. • 3D maps in both hands and 3D lanterns. • Petting that follows the animal with smooth aim. • Vanilla-friendly: a spear in use stays vanilla, and eating/drinking poses trigger only for real food and drink.
 """
 authors = ["romaeboj"]
 owners = ["Dbdbdndbbsbs"]

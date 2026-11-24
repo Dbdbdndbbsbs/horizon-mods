@@ -5,7 +5,7 @@ summary = """Smoother and more expressive third-person animations: eating, drink
 description = """
 Body Motion brings your character to life in third person with smooth, expressive animations for everyday actions.
 
-What it does: • Eating, drinking, climbing, riding boats and horses, crawling, falling, burning, freezing, sleeping and elytra gliding all get natural poses. • Maps and lanterns render as real 3D models in your hands instead of flat icons, including filled maps in both hands. • Crouch next to a wolf or cat and your hand reaches out and follows the animal as it moves. • Custom bow and crossbow poses with configurable bow mode and body rotation lock. • Sprinting, swimming and item swapping get their own animation set.
+What it does: • Eating, drinking, climbing, riding boats and horses, crawling, falling, burning, freezing, sleeping and elytra gliding all get natural poses. • Maps and lanterns render as real 3D models in your hands instead of flat icons, including filled maps in both hands. • Crouch next to a wolf or cat and your hand reaches out and follows the animal as it moves. • A crossbow aim limit and a configurable body rotation lock. • Sprinting, swimming and item swapping get their own animation set.
 
 What's new: • Custom settings screen with tabs for Animations, Hold Up Items and Lanterns, with toggles, sliders, choices and item search. • 3D maps in both hands and 3D lanterns. • Petting that follows the animal with smooth aim. • Vanilla-friendly: a spear in use stays vanilla, and eating/drinking poses trigger only for real food and drink.
 """
@@ -23,5 +23,5 @@ version = "0.3.1"
 published = "2026-11-22"
 game = "26.3"
 file = "bodymotion.hmod"
-sha256 = "b8f4aa6b9a6f9b2769715ffc556e99e30328b48719b2531fd80744cdeee086ef"
-changelog = "Rebuilt for nightly-2026-11-22-2b77287; new mod icon. Native package: the launcher installs it into horizon-native-mods and builds it."
+sha256 = "C20C740AE181E935B4195DBCEC7D1A8C6E7BF62B6FF1ABF0EDD9C212BC8DD373"
+changelog = "Rebuilt for nightly-2026-11-22-2b77287; vanilla bow draw restored (custom bow pose/stance removed); lantern pendulum cleanup; new mod icon. Native package: the launcher installs it into horizon-native-mods and builds it."

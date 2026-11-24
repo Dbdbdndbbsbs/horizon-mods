@@ -19,14 +19,6 @@ categories = ["decoration", "utility"]
 tags = ["animations", "third-person", "player", "client-side", "immersion"]
 
 [[versions]]
-version = "0.3.1"
-published = "2026-11-22"
-game = "26.3"
-file = "bodymotion.hmod"
-sha256 = "c20c740ae181e935b4195dbcec7d1a8c6e7bf62b6ff1abf0edd9c212bc8dd373"
-changelog = "Rebuilt for nightly-2026-11-22-2b77287; vanilla bow draw restored (custom bow pose/stance removed); lantern pendulum cleanup; new mod icon. Native package: the launcher installs it into horizon-native-mods and builds it."
-
-[[versions]]
 version = "0.3.2"
 published = "2026-11-24"
 game = "26.3"
